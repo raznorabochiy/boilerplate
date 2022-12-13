@@ -10,8 +10,7 @@
 файла.
 
 Для работы форматера необходимо установить
-[Deno](https://deno.land/manual@v1.28.3/getting_started/installation) и
-расширение
+[Deno](https://deno.land/manual/getting_started/installation) и расширение
 [vscode-deno](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno).
 
 ---
